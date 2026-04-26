@@ -8,7 +8,7 @@ export async function POST(request: Request) {
 
         const { data: emailData, error } = await resend.emails.send({
             from: "Atlas Entretien <onboarding@resend.dev>",
-            to: ["ndefobryan2005@gmail.com"],
+            to: ["infatlaspro@gmail.com"],
             subject: "Nouvelle demande client - Atlas Entretien",
             html: `
         <h2>Nouvelle demande client</h2>

@@ -478,8 +478,7 @@ function App() {
                   </h2>
                   <p className="mt-5 max-w-sm text-base leading-8 text-zinc-600">
                     Remplissez le formulaire avec vos informations et une courte description des
-                    travaux à faire. Plus tard, on pourra le connecter pour que les demandes soient
-                    envoyées directement par courriel.
+                    travaux à faire. Nous allons vous contacter dans les plus bref délais.
                   </p>
 
                   {/* Trust signals */}
