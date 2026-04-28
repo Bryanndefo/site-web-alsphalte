@@ -96,37 +96,37 @@ function App() {
 
   const services = [
     {
-      title: "Entretien et réparation d'asphalte résidentiel",
+      title: "Entretien et réparation d'asphalte",
       description:
-          "Nous aidons les propriétaires à redonner une belle apparence à leur entrée avec des travaux d'entretien, de réparation et d'amélioration d'asphalte.",
+      "Nous aidons les propriétaires à redonner une apparence haut de gamme à leur entrée avec des travaux d'entretien, de réparation et d'amélioration d'asphalte.",
       image:
           '/Entretien en reparation.JPG',
     },
     {
       title: 'Aménagement paysager',
       description:
-          'Nettoyage, mise en valeur extérieure et petits travaux de paysagement pour garder votre propriété propre, accueillante et soignée.',
+      "  Travaux de paysagement, pavé-uni, nettoyage et mise en valeur extérieure pour garder votre propriété propre, accueillante et soignée.",
       image:
           '/Amenagement paysager.JPG',
     },
     {
-      title: 'Tonte de gazon',
+      title: 'Tonte de gazon et débroussaillage',
       description:
-          "Un entretien essentiel pour protéger votre maison et garder l'extérieur en bon état tout au long de la saison.",
+      "  Un entretien essentiel pour prévenir l’invasion de mauvaises herbes tout comme la présence d’animaux indésirables tel que les insectes et rongeurs.",
       image:
           '/Debroussage-tonteGazon.JPG',
     },
     {
       title: 'Lavage haute pression',
       description:
-          'Des services variés pour aider les propriétaires à redonner vie à leur propriété avec un résultat propre et professionnel.',
+      "  Un nettoyage permettant de retirer toutes formes d’impuretés recouvrant votre revêtement extérieur, balcon, fondation ou surfaces quelconques.",
       image:
           '/Lavage haute pression.JPG',
     },
     {
       title: 'Nettoyage de gouttières',
       description:
-          'Des services variés pour aider les propriétaires à redonner vie à leur propriété avec un résultat propre et professionnel.',
+      "  Un entretien régulier permet de libérer les canaux de gouttières empêchant ainsi une accumulation de débris qui risquerait d’endommager votre système d’écoulement",
       image:
           '/Vidange de goutières.JPG',
     },
