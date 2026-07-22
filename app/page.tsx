@@ -258,7 +258,7 @@ function App() {
                   Que votre stationnement soit en train de rendre l’âme, que votre revêtement extérieur soit couvert de
                   saletés, ou que votre cour arrière ressemble plus à une jungle qu’à un terrain gazonné, rien ne nous
                   résiste.
-                  Chez Atlas Entretien nous sommes les experts en matière d’entretient résidentiel.
+                  Chez Atlas Entretien nous sommes les experts en matière d’entretien résidentiel.
                   Après notre passage chez-vous, vous retrouverez un confort tel que vous ne voudrez plus quitter votre
                   demeure.
                 </p>
